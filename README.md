@@ -1,0 +1,2 @@
+# librarymanagesystem
+运用java驱动MySQL进行数据操作，内含大量基础操作，有利于提到基本功
